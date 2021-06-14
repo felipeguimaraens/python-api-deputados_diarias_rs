@@ -1,0 +1,497 @@
+[
+    {
+        "id": "adolfobrito",
+        "nome": "Adolfo Brito",
+        "email": "ajbrito@al.rs.gov.br",
+        "partido": "PP",
+        "fone": "(51) 32102110",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/13/238564_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/adolfobrito"
+    },
+    {
+        "id": "airtonlima",
+        "nome": "Airton Lima",
+        "email": "airton.lima@al.rs.gov.br",
+        "partido": "PL",
+        "fone": "(51) 32101521",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2021/3/10/294997_M.jpeg",
+        "link": "http://ww1.al.rs.gov.br/airtonlima"
+    },
+    {
+        "id": "aloisioclassmann",
+        "nome": "Alo\u00edsio Classmann",
+        "email": "aloisio.classmann@al.rs.gov.br",
+        "partido": "PTB",
+        "fone": "(51) 32102610",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2015/3/10/178994_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/aloisioclassmann"
+    },
+    {
+        "id": "anyortiz",
+        "nome": "Any Ortiz",
+        "email": "any.ortiz@al.rs.gov.br",
+        "partido": "CIDADANIA",
+        "fone": "(51) 32102530",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/13/238565_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/anyortiz/"
+    },
+    {
+        "id": "betofantinel",
+        "nome": "Beto Fantinel",
+        "email": "beto.fantinel@al.rs.gov.br",
+        "partido": "MDB",
+        "fone": "(51) 32102304",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2021/1/12/292433_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/betofantinel"
+    },
+    {
+        "id": "capitaomacedo",
+        "nome": "Capit\u00e3o Macedo",
+        "email": "capitao.macedo@al.rs.gov.br",
+        "partido": "PSL",
+        "fone": "(51) 32101725",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238600_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/capitaomacedo"
+    },
+    {
+        "id": "carlosburigo",
+        "nome": "Carlos B\u00farigo",
+        "email": "carlos.burigo@al.rs.gov.br",
+        "partido": "MDB",
+        "fone": "(51) 32102130",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238601_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/carlosburigo/"
+    },
+    {
+        "id": "clairkuhn",
+        "nome": "Clair Kuhn",
+        "email": "clair.kuhn@al.rs.gov.br",
+        "partido": "MDB",
+        "fone": "(51) 32101787",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2021/3/10/294999_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/clairkuhn"
+    },
+    {
+        "id": "dalcisooliveira",
+        "nome": "alciso  Oliveira",
+        "email": "dalciso.oliveira@al.rs.gov.br",
+        "partido": "PSB",
+        "fone": "(51) 32101840",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238602_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/dalcisooliveira"
+    },
+    {
+        "id": "dirceufranciscon",
+        "nome": "irceu Franciscon",
+        "email": "dirceu.franciscon@al.rs.gov.br",
+        "partido": "PTB",
+        "fone": "(51) 32101411",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238604_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/dirceufranciscon"
+    },
+    {
+        "id": "drthiagoduarte",
+        "nome": "r. Thiago Duart",
+        "email": "dr.thiago@al.rs.gov.br",
+        "partido": "DEM",
+        "fone": "(51) 32101651",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238605_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/drthiagoduarte"
+    },
+    {
+        "id": "edegarpretto",
+        "nome": "Edegar Pretto",
+        "email": "edegar.pretto@al.rs.gov.br",
+        "partido": "PT",
+        "fone": "(51) 32102450",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2015/3/10/178990_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/edegarpretto"
+    },
+    {
+        "id": "eduardoloureiro",
+        "nome": "Eduardo Loureiro",
+        "email": "eduardo.loureiro@al.rs.gov.br",
+        "partido": "PDT",
+        "fone": "(51) 32102560",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238635_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/eduardoloureiro/"
+    },
+    {
+        "id": "elizandrosabino",
+        "nome": "Elizandro Sabino",
+        "email": "elizandro.sabino@al.rs.gov.br",
+        "partido": "PTB",
+        "fone": "(51) 32101421",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238637_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/elizandrosabino"
+    },
+    {
+        "id": "eltonweber",
+        "nome": "Elton Weber",
+        "email": "elton.weber@al.rs.gov.br",
+        "partido": "PSB",
+        "fone": "(51) 32102440",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238638_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/eltonweber/"
+    },
+    {
+        "id": "ericlins",
+        "nome": "Eric Lins",
+        "email": "eric.lins@al.rs.gov.br",
+        "partido": "DEM",
+        "fone": "(51) 32101681",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238639_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/ericlins"
+    },
+    {
+        "id": "ernanipolo",
+        "nome": "Ernani Polo",
+        "email": "ernani.polo@al.rs.gov.br",
+        "partido": "PP",
+        "fone": "(51) 32101711",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/21/239082_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/ernanipolo"
+    },
+    {
+        "id": "fabioostermann",
+        "nome": "F\u00e1bio Ostermann",
+        "email": "fabio.ostermann@al.rs.gov.br",
+        "partido": "NOVO",
+        "fone": "(51) 32102162",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/10/18/260462_M.png",
+        "link": "http://ww1.al.rs.gov.br/fabioostermann"
+    },
+    {
+        "id": "faisalkaram",
+        "nome": "Faisal Karam",
+        "email": "faisal.karam@al.rs.gov.br",
+        "partido": "PSDB",
+        "fone": "(51) 32101833",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2021/3/23/295938_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/faisalkaram"
+    },
+    {
+        "id": "fernandomarroni",
+        "nome": "Fernando Marroni",
+        "email": "fernando.marroni@al.rs.gov.br",
+        "partido": "PT",
+        "fone": "(51) 32101370",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238656_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/fernandomarroni"
+    },
+    {
+        "id": "fransomensi",
+        "nome": "Fran Somensi",
+        "email": "fran.somensi@al.rs.gov.br",
+        "partido": "REPUBLICANOS",
+        "fone": "(51) 32101611",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2021/6/7/304561_M.png",
+        "link": "http://ww1.al.rs.gov.br/fransomensi"
+    },
+    {
+        "id": "francianebayer",
+        "nome": "Franciane Bayer",
+        "email": "franciane.bayer@al.rs.gov.br",
+        "partido": "PSB",
+        "fone": "(51) 32101632",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2020/6/10/275785_M.png",
+        "link": "http://ww1.al.rs.gov.br/francianebayer"
+    },
+    {
+        "id": "fredericoantunes",
+        "nome": "Frederico Antunes",
+        "email": "frederico.antunes@al.rs.gov.br",
+        "partido": "PP",
+        "fone": "(51) 32101122",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238662_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/fredericoantunes"
+    },
+    {
+        "id": "gabrielsouza",
+        "nome": "Gabriel Souza",
+        "email": "gabriel.souza@al.rs.gov.br",
+        "partido": "MDB",
+        "fone": "(51) 32102245",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2017/10/18/222790_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/gabrielsouza"
+    },
+    {
+        "id": "gauchodageral",
+        "nome": "Ga\u00facho da Geral",
+        "email": "gaucho.dageral@al.rs.gov.br",
+        "partido": "PSD",
+        "fone": "(51) 32101851",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2021/6/1/304061_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/gauchodageral"
+    },
+    {
+        "id": "gersonburmann",
+        "nome": "Gerson Burmann",
+        "email": "gerson.burmann@al.rs.gov.br ",
+        "partido": "PDT",
+        "fone": "(51) 5132102690",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238664_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/gersonburmann"
+    },
+    {
+        "id": "gilbertocapoani",
+        "nome": "Gilberto Capoani",
+        "email": "gilberto.capoani@al.rs.gov.br",
+        "partido": "MDB",
+        "fone": "(51) 32102420",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2021/1/26/292880_M.jpeg",
+        "link": "http://ww1.al.rs.gov.br/gilbertocapoani"
+    },
+    {
+        "id": "giusepperiesgo",
+        "nome": "Giuseppe Riesgo",
+        "email": "giuseppe.riesgo@al.rs.gov.br",
+        "partido": "NOVO",
+        "fone": "(51) 32102181",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2021/2/24/293910_M.jpeg",
+        "link": "http://ww1.al.rs.gov.br/giusepperiesgo"
+    },
+    {
+        "id": "issurkoch",
+        "nome": "Issur Koch",
+        "email": "professor.issurkoch@al.rs.gov.br",
+        "partido": "PP",
+        "fone": "(51) 32101952",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238673_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/issurkoch"
+    },
+    {
+        "id": "jefersonfernandes",
+        "nome": "Jeferson Fernandes",
+        "email": "jeferson.fernandes@al.rs.gov.br",
+        "partido": "PT",
+        "fone": "(51) 32102470",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238674_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/jefersonfernandes"
+    },
+    {
+        "id": "julianabrizola",
+        "nome": "Juliana Brizola",
+        "email": "juliana.brizola@al.rs.gov.br",
+        "partido": "PDT",
+        "fone": "(51) 32102260",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/3/13/240010_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/julianabrizola"
+    },
+    {
+        "id": "kellymoraes",
+        "nome": "Kelly Moraes",
+        "email": "kelly.moraes@al.rs.gov.br",
+        "partido": "PTB",
+        "fone": "(51) 32101431",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/18/238763_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/kellymoraes"
+    },
+    {
+        "id": "lucianagenro",
+        "nome": "Luciana Genro",
+        "email": "luciana.genro@al.rs.gov.br",
+        "partido": "PSOL",
+        "fone": "(51) 32102479",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238676_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/lucianagenro"
+    },
+    {
+        "id": "luislara",
+        "nome": "Lu\u00eds Augusto Lara",
+        "email": "luisaugusto.lara@al.rs.gov.br",
+        "partido": "PTB",
+        "fone": "(51) 32101160",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/7/25/251968_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/luislara"
+    },
+    {
+        "id": "luizmainardi",
+        "nome": "Luiz Fernando Mainardi",
+        "email": "luiz.mainardi@al.rs.gov.br",
+        "partido": "PT",
+        "fone": "(51) 32102380",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238677_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/luizmainardi"
+    },
+    {
+        "id": "luizmarenco",
+        "nome": "Luiz Marenco",
+        "email": "luiz.marenco@al.rs.gov.br",
+        "partido": "PDT",
+        "fone": "(51) 32101471",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238679_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/luizmarenco"
+    },
+    {
+        "id": "marcusvinicius",
+        "nome": "Marcus Vin\u00edcius",
+        "email": "marcus.vinicius@al.rs.gov.br",
+        "partido": "PP",
+        "fone": "(51) 32102554",
+        "foto": "",
+        "link": "http://ww1.al.rs.gov.br/marcusvinicius"
+    },
+    {
+        "id": "mateuswesp",
+        "nome": "Mateus Wes",
+        "email": "mateus.wesp@al.rs.gov.br",
+        "partido": "PSDB",
+        "fone": "(51) 32101861",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/15/238699_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/mateuswesp"
+    },
+    {
+        "id": "neriocarteiro",
+        "nome": "Neri o Carteiro",
+        "email": "neri.ocarteiro@al.rs.gov.br",
+        "partido": "SOLIDARIEDADE",
+        "fone": "(51) 32101871",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/13/238562_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/neriocarteiro"
+    },
+    {
+        "id": "paparicobacchi",
+        "nome": "Paparico Bacchi",
+        "email": "paparico.bacchi@al.rs.gov.br",
+        "partido": "PL",
+        "fone": "(51) 32101531",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2020/5/14/274202_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/paparicobacchi"
+    },
+    {
+        "id": "patriciaalba",
+        "nome": "Patr\u00edcia Alba",
+        "email": "patr\u00edcia.alba@al.rs.gov.br",
+        "partido": "MDB",
+        "fone": "(51) 32101514",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2021/1/12/292432_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/patriciaalba"
+    },
+    {
+        "id": "pedropereira",
+        "nome": "Pedro Pereira",
+        "email": "pedro.pereira@al.rs.gov.br",
+        "partido": "PSDB",
+        "fone": "(51) 32101445",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/15/238687_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/pedropereira"
+    },
+    {
+        "id": "pepevargas",
+        "nome": "Pepe Vargas",
+        "email": "pepe.vargas@al.rs.gov.br",
+        "partido": "PT",
+        "fone": "(51) 32101380",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/15/238688_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/pepevargas"
+    },
+    {
+        "id": "rodrigomaroni",
+        "nome": "Rodrigo Maroni",
+        "email": "rodrigo.maroni@al.rs.gov.br",
+        "partido": "PMB",
+        "fone": "(51) 32101912",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/15/238689_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/rodrigomaroni"
+    },
+    {
+        "id": "ruyirigaray",
+        "nome": "Ruy Irigaray",
+        "email": "ruy.irigaray@al.rs.gov.br",
+        "partido": "PSL",
+        "fone": "(51) 32101741",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/15/238690_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/ruyirigaray"
+    },
+    {
+        "id": "sergioperes",
+        "nome": "Sergio Peres",
+        "email": "sergio.peres@al.rs.gov.br",
+        "partido": "REPUBLICANOS",
+        "fone": "(51) 32102040",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/15/238692_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/sergioperes"
+    },
+    {
+        "id": "sergioturra",
+        "nome": "S\u00e9rgio Turra",
+        "email": "sergio.turra@al.rs.gov.br",
+        "partido": "PP",
+        "fone": "(51) 32102550",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2020/6/2/275122_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/sergioturra"
+    },
+    {
+        "id": "sofiacavedon",
+        "nome": "Sofia Cavedon",
+        "email": "sofia.cavedon@al.rs.gov.br",
+        "partido": "PT",
+        "fone": "(51) 32101397",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/15/238693_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/sofiacavedon"
+    },
+    {
+        "id": "tenentecoronelzucco",
+        "nome": "Tenente Coronel Zucco",
+        "email": "tenentecoronel.zucco@al.rs.gov.br",
+        "partido": "PSL",
+        "fone": "(51) 32101767",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/27/239480_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/tenentecoronelzucco"
+    },
+    {
+        "id": "tiagosimon",
+        "nome": "Tiago Simon",
+        "email": "gab.tiagosimon@al.rs.gov.br",
+        "partido": "MDB",
+        "fone": "(51) 32102230",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/1/30/237820_M.png",
+        "link": "http://ww1.al.rs.gov.br/tiagosimon"
+    },
+    {
+        "id": "valdecioliveira",
+        "nome": "Valdeci Oliveira",
+        "email": "valdeci.oliveira@al.rs.gov.br",
+        "partido": "PT",
+        "fone": "(51) 32102220",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238603_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/valdecioliveira"
+    },
+    {
+        "id": "vilmarlourenco",
+        "nome": "Vilmar Louren\u00e7o",
+        "email": "vilmar.lourenco@al.rs.gov.br",
+        "partido": "PSL",
+        "fone": "(51) 32101776",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/15/238697_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/vilmarlourenco"
+    },
+    {
+        "id": "vilmarzanchin",
+        "nome": "Vilmar Zanchin",
+        "email": "zanchin@al.rs.gov.br",
+        "partido": "MDB",
+        "fone": "(51) 32102540",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/15/238698_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/vilmarzanchin"
+    },
+    {
+        "id": "zenunes",
+        "nome": "Z\u00e9 Nunes",
+        "email": "ze.nunes@al.rs.gov.br",
+        "partido": "PT",
+        "fone": "(51) 32101350",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2015/2/23/177876_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/zenunes"
+    },
+    {
+        "id": "zilabreitenbach",
+        "nome": "Zil\u00e1 Breitenbach",
+        "email": "zila.breitenbach@al.rs.gov.br",
+        "partido": "PSDB",
+        "fone": "(51) 32102620",
+        "foto": "http://www2.al.rs.gov.br/filerepository/fotografias/2019/2/14/238681_M.jpg",
+        "link": "http://ww1.al.rs.gov.br/zilabreitenbach"
+    }
+]
