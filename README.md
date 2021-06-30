@@ -4,7 +4,7 @@ Api para coletar lista de deputados do site da assembleia legislativa e retornar
 
 Retorna 2 arquivos: rs_deputados_infos.json e deputados_dados.json
 
-**rs_deputados_infos.json:** <br> - Lista de objetos com: id (baseado na url do site 1), nome, email, partido, fone, link com foto e link para página com mais informações
+**rs_deputados_infos.json:** <br> - Lista de objetos com: id (baseado na url do primeiro site citado no fim deste arquivo), nome, email, partido, fone, link com foto e link para página com mais informações
 
 **deputados_dados.json:** <br> - Objetos com estrutura: ano = [[nome, número de diárias, valor total de gastos com diárias, recolhidas], ...]
 
